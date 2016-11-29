@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/resetList" android:title="Reset List"></item>
+    <item android:id="@+id/clearFavorites" android:title="Clear Favorites"></item>
+    <item android:id="@+id/singOut" android:title="Sing out"></item>
+
+</menu>
